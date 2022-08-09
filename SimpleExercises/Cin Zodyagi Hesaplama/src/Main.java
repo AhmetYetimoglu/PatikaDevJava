@@ -45,7 +45,7 @@ public class Main {
                 System.out.println("Çin Zodyağı Burcunuz : At");
                 break;
             case 11:
-                System.out.println("Çin Zodyağı Burcunuz : 1Koyun");
+                System.out.println("Çin Zodyağı Burcunuz : Koyun");
                 break;
         }
     }
